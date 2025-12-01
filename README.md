@@ -19,7 +19,7 @@
 <a href="#"><img src="https://img.shields.io/badge/license-Mac%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://s3-alpha.figma.com/hub/file/1408974581/7a06a40b-5c3f-47f1-b470-d3f91c44e82b-cover.png" width="824" alt="Screenshot"/>
+<img src="https://help.miro.com/hc/article_attachments/16734102410386" width="824" alt="Screenshot"/>
 
 </div>
 
